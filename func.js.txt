@@ -1,0 +1,4 @@
+function double (int num){
+return num*2;
+
+}
